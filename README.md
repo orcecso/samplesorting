@@ -1,4 +1,4 @@
-# flutter_application_1
+# (Incomplete code) Sample Implementation of sorting algorithm with bubble, merging sort and quick sort
 
 A new Flutter project.
 
